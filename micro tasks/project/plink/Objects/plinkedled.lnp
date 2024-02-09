@@ -1,0 +1,3 @@
+".\Objects\plinkled.obj" 
+TO ".\Objects\plinkedled" 
+PRINT(".\Listings\plinkedled.m51") RAMSIZE(256) 
